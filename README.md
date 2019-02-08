@@ -4,7 +4,8 @@ http://pyvmmonitor.com PyVmMonitor is used for profiling.
 =======
 
 **DEVELOPMENT ON THIS LIBRARY IS CURRENTLY HALF-PAUSED** 
-not dedicating a lot of time to this, but will fix bugs if they're presented to me. 
+This repo gets a healthy amount of traffic but unfortunately PredictIt disabled my account because I refused to remove this repository.  That being said, I think I've found away around this, and the half-pause may come to a full-close by the end of the weekend.
+
 pyredictit is a wrapper for the public PredictIt API (https://predictit.freshdesk.com/support/solutions/articles/12000001878-does-predictit-make-market-data-available-via-an-api-).  Running this module requires mechanicalsoup and <b>Python 3.6</b>.  Check out the Examples directory for some ideas on how to use this!
 
 **this can buy or sell shares using the money currently in your account. i am not responsible for any awful (or brilliant) trades you may accidentally or purposefully make with this wrapper. don't risk more than you can afford to lose. **
