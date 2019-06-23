@@ -1,6 +1,6 @@
 # pyredictit
 
-**~MY~ DEVELOPMENT ON THIS LIBRARY IS CURRENTLY CLOSED** 
+**MY DEVELOPMENT ON THIS LIBRARY IS CURRENTLY CLOSED** 
 
 This repo gets a healthy amount of traffic but unfortunately PredictIt disabled my account because I refused to remove this repository.  Update as of 4/16/19: my attempt to find a way around PredictIt disabling my account didn't work, and I don't really desire to spend a lot more effort on trying to find new ways in to PredictIt, but a couple of people have forked this repo and I figure it may be interesting/a nice starting point for some other intrepid developers so I'm going to leave it public.
 
