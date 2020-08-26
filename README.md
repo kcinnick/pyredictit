@@ -1,9 +1,5 @@
 # pyredictit
 
-**MY DEVELOPMENT ON THIS LIBRARY IS CURRENTLY CLOSED** 
-
-This repo gets a healthy amount of traffic but unfortunately PredictIt disabled my account because I refused to remove this repository.  Update as of 4/16/19: my attempt to find a way around PredictIt disabling my account didn't work, and I don't really desire to spend a lot more effort on trying to find new ways in to PredictIt, but a couple of people have forked this repo and I figure it may be interesting/a nice starting point for some other intrepid developers so I'm going to leave it public.
-
 pyredictit is a wrapper for the public PredictIt API (https://predictit.freshdesk.com/support/solutions/articles/12000001878-does-predictit-make-market-data-available-via-an-api-).  Running this module requires mechanicalsoup and <b>Python 3.6</b>.  Check out the Examples directory for some ideas on how to use this!
 
 **this can buy or sell shares using the money currently in your account. i am not responsible for any awful (or brilliant) trades you may accidentally or purposefully make with this wrapper. don't risk more than you can afford to lose. **
@@ -24,7 +20,7 @@ HOW YOU CAN HELP:
 
 report all exceptions!  Liberally open issues and let me know what's not working or what looks wonky! Include as much info as possible and please check to make sure that you are using valid login info and whatnot if you're copying over from the examples.  Also, *any* feedback is useful! 
 
-UPDATE 1/26/2017 - the number 1 question I've been getting about this is "will it steal my login and password," and the answer is *of course not*, <b>but don't take my word for it!</b> Lines 226-235 are the parts where authentication is handled specifically, and I suspect that even people who don't fully understand Python's syntax will be able to see and verify for themselves that this information isn't transmitted anywhere beyond PI's server.
+UPDATE - the number 1 question I've been getting about this is "will it steal my login and password," and the answer is *of course not*, <b>but don't take my word for it!</b> Lines 226-235 are the parts where authentication is handled specifically, and I suspect that even people who don't fully understand Python's syntax will be able to see and verify for themselves that this information isn't transmitted anywhere beyond PI's server.
 
 INSTALLATION:
 
